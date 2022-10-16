@@ -14,6 +14,7 @@ void test24()
 	vector<int>v3;
 	v1.push_back(10);
 	v1.push_back(20);
+	v1.push_back(20);
 	v1.push_back(30);
 	v1.push_back(40);
 	v1.push_back(50);
